@@ -1,0 +1,15 @@
+/* Write your CSS here */
+.vaccination-container {
+  background-color: #1c1c2b;
+  color: #fff;
+  padding: 20px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+.bar {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin: 10px;
+}
